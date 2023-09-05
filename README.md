@@ -1,4 +1,4 @@
-## Introduce 🖐
+## 🖐 Introduce
 
 I am xoos in interested in ML/DL from South Korea
 <br>
@@ -10,6 +10,9 @@ If you want to contact me, leave me a message!
 2. DMZ - Chat Bot
 3. Canaria - Object Detection
 4. Subproject - Personal Color
+
+## 📚 Stack
+
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xoos0420&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xoos0420&layout=compact&theme=tokyonight)
