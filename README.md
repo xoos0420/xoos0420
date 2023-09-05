@@ -2,6 +2,8 @@
 
 * I am xoos in interested in ML/DL from South Korea
 * If you want to contact me, leave me a message!
+* Email : xoos0420@gmail.com
+* notion : https://super-spectrum-693.notion.site/91bd93a7246d45f3853ce0ccb84fea39?pvs=4
 
 ## 💻 Experience
 
