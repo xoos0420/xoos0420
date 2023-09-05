@@ -1,6 +1,7 @@
-## Hi There 🖐
+## Introduce 🖐
 
 I am xoos in interested in ML/DL from South Korea
+<br>
 If you want to contact me, leave me a message!
 
 ## 💻 Experience
