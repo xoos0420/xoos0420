@@ -11,6 +11,7 @@
 2. DMZ - Chat Bot
 3. Canaria - Object Detection
 4. Subproject - Personal Color
+5. dajngo blog - Web / App
 
 ## 📚 Stack
 <div align="center">
