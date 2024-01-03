@@ -1,6 +1,6 @@
 ## 🖐 Introduce
 
-* I am xoos in interested in ML/DL from South Korea
+* I am xoos in interested in ML/DL and  from South Korea
 * If you want to contact me, leave me a message!
 * Email : xoos0420@gmail.com
 * notion : https://super-spectrum-693.notion.site/91bd93a7246d45f3853ce0ccb84fea39?pvs=4
@@ -11,7 +11,7 @@
 2. DMZ - Chat Bot
 3. Canaria - Object Detection
 4. Subproject - Personal Color
-5. dajngo blog - Web / App
+5. dajngo blog - Web / App with docker | aws(lightsail)
 
 ## 📚 Stack
 <div align="center">
