@@ -11,7 +11,7 @@
 2. DMZ - Chat Bot
 3. Canaria - Object Detection
 4. Subproject - Personal Color
-5. dajngo blog - Web / App with docker | aws(lightsail)
+5. dajngo blog - Web / App with docker | AWS(lightsail)
 
 ## 📚 Stack
 <div align="center">
