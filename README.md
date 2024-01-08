@@ -40,6 +40,7 @@
   <img src="https://img.shields.io/badge/fastapi-009608?style=for-the-badge&logo=fastapi&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-4479A1?style=for-the-badge&logo=docker&logoColor=white">
 </div>
 
 ## 🎮 status
