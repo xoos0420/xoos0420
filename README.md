@@ -12,6 +12,7 @@
 3. Canaria - Object Detection
 4. Subproject - Personal Color
 5. dajngo blog - Web / App with docker | AWS(lightsail)
+6. movie recommand - Web | Machine Learning | AWS(EC2)
 
 ## 📚 Stack
 <div align="center">
